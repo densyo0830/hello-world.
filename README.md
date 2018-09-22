@@ -2,4 +2,4 @@
 ============
 Hi Humans:
 
-Densyo here, New to Github. I'm here to learn about github. I love OSS projects to read and contribute!).
+Densyo here, New to Github. I'm here to learn about github. I love to read OSS projects and contribute!).
